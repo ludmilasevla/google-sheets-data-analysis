@@ -1,0 +1,16 @@
+# Arquivos temporários do Excel
+~$*
+
+# Arquivos do sistema Windows
+Thumbs.db
+Desktop.ini
+
+# Arquivos do sistema macOS
+.DS_Store
+
+# Arquivos de log
+*.log
+
+# Arquivos temporários
+*.tmp
+*.temp
