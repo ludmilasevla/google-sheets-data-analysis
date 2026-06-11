@@ -12,6 +12,14 @@ Análise realizada utilizando Tabelas Dinâmicas, VLOOKUP e gráficos para explo
 
 ![demo](demo.png)
 
+### 📄 Acessar a Planilha
+
+Visualize a versão original do projeto no Google Sheets:
+
+🔗 https://docs.google.com/spreadsheets/d/12S6b1rkh4gW1125dJH7kZSP3Wdv9kiORnAo8hpaJ78c/edit?gid=0#gid=0
+
+✨ ───────────── ✨
+
 ### Fluxo
 1. Organização dos dados 
 2. Criação de Tabela Dinâmica 
@@ -74,6 +82,19 @@ Análise realizada utilizando Tabelas Dinâmicas, VLOOKUP e gráficos para explo
 
 **Correção realizada:**
 - Ajuste de valor inconsistente encontrado durante a análise gráfica, corrigindo um preço de US$ 0,73 para US$ 7,30.
+
+✨ ───────────── ✨
+
+### 📸 Capturas de Tela
+
+#### Tabela Dinâmica
+![Tabela Dinâmica](screenshots/tabela-dinamica.png)
+
+#### VLOOKUP
+![VLOOKUP](screenshots/vlookup.png)
+
+#### Gráfico de Colunas
+![Gráfico](screenshots/grafico.png)
 
 ✨ ───────────── ✨
 
