@@ -13,13 +13,13 @@ Análise realizada utilizando Tabelas Dinâmicas, VLOOKUP e gráficos para explo
 ![demo](demo.png)
 
 ### Fluxo
-1. Organização dos dados 📋
-2. Criação de Tabela Dinâmica 📊
-3. Identificação dos produtos mais lucrativos 💰
-4. Aplicação da função VLOOKUP 🔍
-5. Cruzamento de informações entre planilhas 🔗
-6. Criação de gráfico para análise visual 📈
-7. Identificação e correção de inconsistências 🛠️
+1. Organização dos dados 
+2. Criação de Tabela Dinâmica 
+3. Identificação dos produtos mais lucrativos 
+4. Aplicação da função VLOOKUP 
+5. Cruzamento de informações entre planilhas 
+6. Criação de gráfico para análise visual 
+7. Identificação e correção de inconsistências 
 
 ✨ ───────────── ✨
 
@@ -85,8 +85,9 @@ google-sheets-data-analysis/
 ├── screenshots/
 │   ├── tabela-dinamica.png
 │   ├── vlookup.png
-│   ├── grafico.png
+│   └── grafico.png
 │
+├── demo.png
 ├── README.md
 └── .gitignore
 ```
